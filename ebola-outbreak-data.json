@@ -1,0 +1,20 @@
+[
+  { "date" : "2013-12-06T00:00:00.000Z", "cases" : 1, "deaths" : null },
+  { "date" : "2013-12-24T00:00:00.000Z", "cases" : 9, "deaths" : null },
+  { "date" : "2014-01-11T00:00:00.000Z", "cases" : 17, "deaths" : null },
+  { "date" : "2014-01-29T00:00:00.000Z", "cases" : 25, "deaths" : null },
+  { "date" : "2014-02-16T00:00:00.000Z", "cases" : 33, "deaths" : null },
+  { "date" : "2014-03-06T00:00:00.000Z", "cases" : 41, "deaths" : null },
+  { "date" : "2014-03-24T00:00:00.000Z", "cases" : 86, "deaths" : null },
+  { "date" : "2014-04-11T00:00:00.000Z", "cases" : 186, "deaths" : null },
+  { "date" : "2014-04-29T00:00:00.000Z", "cases" : 247, "deaths" : null },
+  { "date" : "2014-05-17T00:00:00.000Z", "cases" : 265, "deaths" : null },
+  { "date" : "2014-06-04T00:00:00.000Z", "cases" : 433, "deaths" : null },
+  { "date" : "2014-06-22T00:00:00.000Z", "cases" : 587, "deaths" : null },
+  { "date" : "2014-07-10T00:00:00.000Z", "cases" : 888, "deaths" : null },
+  { "date" : "2014-07-28T00:00:00.000Z", "cases" : 1293, "deaths" : null },
+  { "date" : "2014-08-15T00:00:00.000Z", "cases" : 2127, "deaths" : null },
+  { "date" : "2014-09-02T00:00:00.000Z", "cases" : 3525, "deaths" : null },
+  { "date" : "2014-09-20T00:00:00.000Z", "cases" : 5606, "deaths" : null },
+  { "date" : "2014-10-08T00:00:00.000Z", "cases" : 8033, "deaths" : 2799 }
+]
