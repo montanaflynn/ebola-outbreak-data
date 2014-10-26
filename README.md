@@ -6,7 +6,9 @@ http://www.who.int/csr/disease/ebola/situation-reports/en/
 
 ### Help Needed
 
-I would like to include individual country data as well as other sources but I don't have the time to do it by myself. If you want to help file an issue or send a pull request and I'll add you as a contributer. Please also consider donating to the [Ebola Epidemic Relief Fund](http://www.globalgiving.org/projects/ebola-epidemic-relief-fund/) or any other charity fighting the virus in Africa.
+I would like to include individual country data as well as other sources but I don't have the time to do it by myself. If you want to help file an issue or send a pull request and I'll add you as a contributer. 
+
+Please also consider donating to a charity that is fighting the virus outbreak in Africa. I recommend http://www.directrelief.org/
 
 ### Other Data Sources
 
