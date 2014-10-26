@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<ROWSET>
+  <ROW>
+    <date>2014-03-24T07:00:00.000Z</date>
+    <cases> 86</cases>
+    <deaths> 59</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-03-27T07:00:00.000Z</date>
+    <cases> 111</cases>
+    <deaths> 72</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-03-30T07:00:00.000Z</date>
+    <cases> 114</cases>
+    <deaths> 72</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-04-02T07:00:00.000Z</date>
+    <cases> 129</cases>
+    <deaths> 85</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-04-05T07:00:00.000Z</date>
+    <cases> 161</cases>
+    <deaths> 93</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-04-07T07:00:00.000Z</date>
+    <cases> 172</cases>
+    <deaths> 105</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-04-10T07:00:00.000Z</date>
+    <cases> 183</cases>
+    <deaths> 111</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-04-17T07:00:00.000Z</date>
+    <cases> 236</cases>
+    <deaths> 135</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-05-06T07:00:00.000Z</date>
+    <cases> 270</cases>
+    <deaths> 168</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-05-09T07:00:00.000Z</date>
+    <cases> 275</cases>
+    <deaths> 171</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-05-15T07:00:00.000Z</date>
+    <cases> 287</cases>
+    <deaths> 184</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-05-28T07:00:00.000Z</date>
+    <cases> 324</cases>
+    <deaths> 204</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-05-30T07:00:00.000Z</date>
+    <cases> 368</cases>
+    <deaths> 212</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-06-04T07:00:00.000Z</date>
+    <cases> 434</cases>
+    <deaths> 227</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-06-06T07:00:00.000Z</date>
+    <cases> 442</cases>
+    <deaths> 234</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-06-10T07:00:00.000Z</date>
+    <cases> 467</cases>
+    <deaths> 246</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-06-18T07:00:00.000Z</date>
+    <cases> 528</cases>
+    <deaths> 337</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-06-24T07:00:00.000Z</date>
+    <cases> 599</cases>
+    <deaths> 338</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-01T07:00:00.000Z</date>
+    <cases> 759</cases>
+    <deaths> 467</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-03T07:00:00.000Z</date>
+    <cases> 779</cases>
+    <deaths> 481</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-08T07:00:00.000Z</date>
+    <cases> 844</cases>
+    <deaths> 518</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-10T07:00:00.000Z</date>
+    <cases> 888</cases>
+    <deaths> 539</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-17T07:00:00.000Z</date>
+    <cases> 982</cases>
+    <deaths> 613</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-19T07:00:00.000Z</date>
+    <cases> 1048</cases>
+    <deaths> 632</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-24T07:00:00.000Z</date>
+    <cases> 1093</cases>
+    <deaths> 660</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-27T07:00:00.000Z</date>
+    <cases> 1201</cases>
+    <deaths> 672</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-07-31T07:00:00.000Z</date>
+    <cases> 1322</cases>
+    <deaths> 729</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-04T07:00:00.000Z</date>
+    <cases> 1603</cases>
+    <deaths> 887</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-06T07:00:00.000Z</date>
+    <cases> 1711</cases>
+    <deaths> 932</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-08T07:00:00.000Z</date>
+    <cases> 1779</cases>
+    <deaths> 961</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-11T07:00:00.000Z</date>
+    <cases> 1868</cases>
+    <deaths> 1013</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-12T07:00:00.000Z</date>
+    <cases> 1975</cases>
+    <deaths> 1069</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-14T07:00:00.000Z</date>
+    <cases> 2127</cases>
+    <deaths> 1145</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-19T07:00:00.000Z</date>
+    <cases> 2473</cases>
+    <deaths> 1350</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-21T07:00:00.000Z</date>
+    <cases> 2615</cases>
+    <deaths> 1427</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-27T07:00:00.000Z</date>
+    <cases> 2656</cases>
+    <deaths> 1451</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-28T07:00:00.000Z</date>
+    <cases> 3069</cases>
+    <deaths> 1552</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-08-30T07:00:00.000Z</date>
+    <cases> 3070</cases>
+    <deaths> 1552</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-05T07:00:00.000Z</date>
+    <cases> 3967</cases>
+    <deaths> 2105</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-09T07:00:00.000Z</date>
+    <cases> 4291</cases>
+    <deaths> 2296</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-16T07:00:00.000Z</date>
+    <cases> 4985</cases>
+    <deaths> 2461</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-18T07:00:00.000Z</date>
+    <cases> 5347</cases>
+    <deaths> 2630</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-20T07:00:00.000Z</date>
+    <cases> 5864</cases>
+    <deaths> 2811</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-09-24T07:00:00.000Z</date>
+    <cases> 6263</cases>
+    <deaths> 2917</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-01T07:00:00.000Z</date>
+    <cases> 7178</cases>
+    <deaths> 3338</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-03T07:00:00.000Z</date>
+    <cases> 7492</cases>
+    <deaths> 3439</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-08T07:00:00.000Z</date>
+    <cases> 8034</cases>
+    <deaths> 3865</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-10T07:00:00.000Z</date>
+    <cases> 8399</cases>
+    <deaths> 4033</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-15T07:00:00.000Z</date>
+    <cases> 8997</cases>
+    <deaths> 4493</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-17T07:00:00.000Z</date>
+    <cases> 9216</cases>
+    <deaths> 4555</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-22T07:00:00.000Z</date>
+    <cases> 9936</cases>
+    <deaths> 4877</deaths>
+  </ROW>
+  <ROW>
+    <date>2014-10-25T07:00:00.000Z</date>
+    <cases> 10141</cases>
+    <deaths> 4922</deaths>
+  </ROW>
+</ROWSET>
