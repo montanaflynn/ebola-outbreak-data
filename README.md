@@ -6,4 +6,4 @@ http://www.who.int/csr/disease/ebola/situation-reports/en/
 
 ### Help Needed
 
-As you can see I'm missing the death counts. I would also like to include individual country data as well as other sources but I don't have the time to do it all by myself. If you want to help file an issue or send a pull request and I'll add you as a contributer. 
+I would like to include individual country data as well as other sources but I don't have the time to do it by myself. If you want to help file an issue or send a pull request and I'll add you as a contributer. 
