@@ -10,6 +10,6 @@ I would like to include individual country data as well as other sources but I d
 
 ### Other Sources
 
-https://github.com/cmrivers/ebola
-http://ebola-wiki.com/List_of_Ebola_related_data_sources
-http://192.241.227.237/ebola
+- https://github.com/cmrivers/ebola
+- http://ebola-wiki.com/List_of_Ebola_related_data_sources
+- http://192.241.227.237/ebola
