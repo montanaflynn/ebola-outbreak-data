@@ -1,6 +1,6 @@
 # Ebola Outbreak Data
 
-Trying to get a repo with a consistent source of Ebola related data in various formats. For now I'm getting the data from The World Health Organizations reports which are only available in PDFs which you can find here:
+Trying to get a repo with a consistent source of Ebola related data in various formats. For now I'm getting the data from The World Health Organizations reports which you can find here:
 
 http://www.who.int/csr/disease/ebola/situation-reports/en/
 
