@@ -1,0 +1,22 @@
+{
+  "name": "ebola-outbreak-data",
+  "version": "0.1.0",
+  "description": "Ebola data",
+  "main": "json-to-other-formats.js",
+  "dependencies": {
+    "aoot": "^0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/montanaflynn/ebola-outbreak-data.git"
+  },
+  "author": "Montana Flynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montanaflynn/ebola-outbreak-data/issues"
+  },
+  "homepage": "https://github.com/montanaflynn/ebola-outbreak-data"
+}
