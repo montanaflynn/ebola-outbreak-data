@@ -57,7 +57,11 @@ unirest
 
     }
 
-    getReports(reports)
+    if (reports.length > 0) {
+      getReports(reports)
+    } else {
+      console.log("All up to date")
+    }
 
   })
 
