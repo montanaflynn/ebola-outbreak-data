@@ -4,7 +4,12 @@
   "description": "Ebola data",
   "main": "json-to-other-formats.js",
   "dependencies": {
-    "aoot": "^0.0.1"
+    "aoot": "^0.0.1",
+    "cheerio": "^0.18.0",
+    "download-pdf": "^0.1.0",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8",
+    "unirest": "^0.3.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
