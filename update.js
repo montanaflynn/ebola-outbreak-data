@@ -16,7 +16,7 @@ var reports = []
 
 // Get all the PDF reports from the WHO website
 unirest
-  .get("http://www.who.int/csr/disease/ebola/situation-reports/en/")
+  .get("http://www.who.int/csr/disease/ebola/situation-reports/archive/en/")
   .end(function(response){
 
     console.log("Ebola report list received")
