@@ -56,10 +56,12 @@ unirest
 
     // Keep going if more reports
     if (reports.length > 0) {
+      console.log("We got new reports")
       getReports(reports)
 
     // If we're up to date
     } else {
+      console.log("Finnsihed")
       saveData(originalData)
     }
 

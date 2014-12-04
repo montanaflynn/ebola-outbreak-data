@@ -1,8 +1,8 @@
 {
   "name": "ebola-outbreak-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ebola data",
-  "main": "json-to-other-formats.js",
+  "main": "update.js",
   "dependencies": {
     "aoot": "^0.1.0",
     "cheerio": "^0.18.0",
@@ -12,6 +12,8 @@
     "unirest": "^0.3.0"
   },
   "scripts": {
+    "update": "node update.js"
+    "format": "node format.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
