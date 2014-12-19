@@ -1,6 +1,6 @@
 {
   "name": "ebola-outbreak-data",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Ebola data",
   "main": "update.js",
   "dependencies": {
