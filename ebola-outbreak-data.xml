@@ -330,4 +330,14 @@
 		<cases>19497</cases>
 		<deaths>7588</deaths>
 	</ROW>
+	<ROW>
+		<date>2014-12-31T00:00:00.000Z</date>
+		<cases>20206</cases>
+		<deaths>7905</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-01-07T00:00:00.000Z</date>
+		<cases>20747</cases>
+		<deaths>8235</deaths>
+	</ROW>
 </ROWSET>
