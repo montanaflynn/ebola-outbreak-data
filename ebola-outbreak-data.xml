@@ -341,13 +341,33 @@
 		<deaths>8235</deaths>
 	</ROW>
 	<ROW>
-		<date>2015-01-014T00:00:00.000Z</date>
+		<date>2015-01-14T00:00:00.000Z</date>
 		<cases>21296</cases>
 		<deaths>8429</deaths>
 	</ROW>
 	<ROW>
-		<date>2015-01-021T00:00:00.000Z</date>
+		<date>2015-01-21T00:00:00.000Z</date>
 		<cases>21724</cases>
 		<deaths>8641</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-01-28T00:00:00.000Z</date>
+		<cases>22092</cases>
+		<deaths>8810</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-02-04T00:00:00.000Z</date>
+		<cases>22495</cases>
+		<deaths>8981</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-02-11T00:00:00.000Z</date>
+		<cases>22894</cases>
+		<deaths>9177</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-02-04T00:00:00.000Z</date>
+		<cases>23253</cases>
+		<deaths>9380</deaths>
 	</ROW>
 </ROWSET>
