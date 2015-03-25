@@ -380,4 +380,19 @@
 		<cases>23969</cases>
 		<deaths>9807</deaths>
 	</ROW>
+	<ROW>
+		<date>2015-03-11T00:00:00.000Z</date>
+		<cases>24282</cases>
+		<deaths>9976</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-03-18T00:00:00.000Z</date>
+		<cases>24701</cases>
+		<deaths>10194</deaths>
+	</ROW>
+	<ROW>
+		<date>2015-03-25T00:00:00.000Z</date>
+		<cases>24907</cases>
+		<deaths>10326</deaths>
+	</ROW>
 </ROWSET>
